@@ -23,6 +23,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 # PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -255,6 +256,7 @@ footer {
   transform: scale(1.05);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
+```
 # OUTPUT:
 <img width="1920" height="1200" alt="398783840-6257707b-b13e-4a7c-8b59-34519c919956 `1" src="https://github.com/user-attachments/assets/04c09039-477b-43a1-8bb8-24f4ac822bc6" />
 <img width="1920" height="1200" alt="398783513-68c88916-06a1-435c-839a-5c43159d87cb" src="https://github.com/user-attachments/assets/2bb849e0-5fa9-407b-baf4-327e0a7a662e" />
